@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=32EDF0&height=300&section=header&text=Euntae%20Kim&fontSize=70)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=32EDF0&height=300&section=header&text=Euntae%20Kim&fontSize=70) -->
 
 # Hi There👋
 ## Hello, I'm Euntae Kim!
