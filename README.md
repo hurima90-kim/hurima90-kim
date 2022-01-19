@@ -13,6 +13,7 @@ Thank you! Have a lovely day!
 
 ## 🌈 Experience
 
+- Nexivil Inc. - Front-End Developer(Jan, 2022 ~ Now)
 - Neobranding - Web Designer(May, 2019 ~ Sept, 2020)
 - LG Uplus - Network Engineer(May, 2015 ~ Sept, 2016)
 
