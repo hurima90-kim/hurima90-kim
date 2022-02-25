@@ -5,7 +5,8 @@
 
 Good day!</br>
 Let me start by saying that I am very pleased to meet you.</br>
-I am a front-end developer from South Korea🇰🇷. But I've been working as web designer from "Neobranding".</br>
+I am a front-end developer from South Korea🇰🇷.</br>
+But I've been working as web designer from "Neobranding".</br>
 Basically, I always love challenging new things and the type of person who is hardworking.</br>
 If you want to contact me, please send me an email💌 or a message!</br></br>
 
