@@ -15,8 +15,9 @@ Thank you! Have a lovely day!
 ## 🌈 Experience
 
 - Nexivil Inc. - Front-End Developer(Jan, 2022 ~ Now)
-- Neobranding - Web Designer(May, 2019 ~ Sept, 2020)
-- LG Uplus - Network Engineer(May, 2015 ~ Sept, 2016)
+- Neobranding - Web Designer(May, 2019 ~ Sep, 2020)
+- Working Holiday Austailia(Oct, 2016 ~ Dec, 2018)
+- LG Uplus - Network Engineer(May, 2015 ~ Sep, 2016)
 
 
 ![Euntae Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurima90-kim)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurima90-kim)
